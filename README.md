@@ -23,7 +23,7 @@ A lightweight, self-hosted Stremio addon with **3 configurable sources**, built-
 
 ### Stream Labels
 - **VixSrc**: `VixSrc 🤌` — `🎬 Localized Title`
-- **CinemaCity**: `CinemaCity 🤌` — `🎬 Localized Title`
+- **CinemaCity**: `CinemaCity 🤌` — `🎬 Localized Title` ## NOT WORKING
 - **AnimeUnity**: `AU 🤌` — `VIX 1080 🤌`
 
 ---
